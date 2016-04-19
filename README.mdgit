@@ -1,0 +1,1 @@
+"# Check_Error"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/Santipap/Check_Error.gitgit push -u origin master.or push an existing repository from the command linegit remote add origin https://github.com/Santipap/Check_Error.gitgit push -u origin master
